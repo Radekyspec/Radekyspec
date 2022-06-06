@@ -17,12 +17,6 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/Radekyspec/count.svg" />
- </p>
- 
-
----
 
 ## 📈 Stats
 <img  src="https://github-readme-stats.vercel.app/api?username=Radekyspec&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
