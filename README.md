@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 ## 📈 Stats
-<img  src="https://github-readme-stats.vercel.app/api?username=Radekyspec&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api/?username=Radekyspec&count_private=true&show_icons=true&theme=dracula" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Radekyspec&theme=dark" width="48%" >
 
 ## 🏆 GitHub Trophies
@@ -27,10 +27,6 @@ Here are some ideas to get you started:
 
 
 ---
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Radekyspec&count_private=true&show_icons=true&theme=dracula" />
-</a>
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radekyspec&layout=compact&theme=dracula" />
