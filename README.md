@@ -19,17 +19,17 @@ Here are some ideas to get you started:
 
 
 ## 📈 Stats
-<img  src="https://github-readme-stats.vercel.app/api/?username=Radekyspec&count_private=true&show_icons=true&theme=dracula" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Radekyspec&theme=dark" width="48%" >
+<img  src="https://github-readme-stats-lemon-beta.vercel.app/api/?username=Radekyspec&count_private=true&show_icons=true&theme=dracula" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats-rust-tau.vercel.app/?user=Radekyspec&theme=dark" width="48%" >
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Radekyspec&theme=alduin)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-winning.vercel.app/?username=radekyspec&theme=alduin)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radekyspec&layout=compact&theme=dracula" />
+  <img align="center" src="https://github-readme-stats-lemon-beta.vercel.app/api/top-langs/?username=Radekyspec&layout=compact&theme=dracula" />
 </a>
 
 ---
