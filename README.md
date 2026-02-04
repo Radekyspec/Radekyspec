@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <img  src="https://github-readme-streak-stats-rust-tau.vercel.app/?user=Radekyspec&theme=dark" width="48%" >
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy-winning.vercel.app/?username=radekyspec&theme=alduin)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=radekyspec&theme=alduin)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
